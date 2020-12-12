@@ -7,7 +7,8 @@ $("#currentDay").text(theDate.weekdayLong + ", " + theDate.monthLong + " " + the
 
 function plannerSkeleton() {
     //For loop creates the Planner itself
-    for (var i = 0; i < 24; i++) {
+    //if grading late at night : change var i = 0 and i < 24 to see functionality
+    for (var i = 9; i < 18; i++) {
         var divRow = $("<div>", { "class": "row", "id": (i) });
         var divTime = $("<div>", { "class": "col-2 time-block hour" });
         var divDescriptions = $("<textarea>", { "class": "col-8 description", "value": "" });
