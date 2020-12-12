@@ -2,6 +2,7 @@
 
 ## Links
 https://github.com/Curtis-Hatter/Day-Planner
+
 https://curtis-hatter.github.io/Day-Planner/
 
 ## Your Task
