@@ -1,7 +1,8 @@
 //Creating an Object that contains the current Date and Time
 var theDate = luxon.DateTime.local();
 
-console.log(theDate);
+//using c.l() to see what I'm grabbing
+// console.log(theDate);
 //Assign the Date to the Heading
 $("#currentDay").text(theDate.weekdayLong + ", " + theDate.monthLong + " " + theDate.day + " " + theDate.year);
 
