@@ -1,7 +1,8 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Links
-
+https://github.com/Curtis-Hatter/Day-Planner
+https://curtis-hatter.github.io/Day-Planner/
 
 ## Your Task
 
